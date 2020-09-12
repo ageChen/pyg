@@ -1,11 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+  <component name="ChangeListManager">
+    <list default="true" id="349e1091-996d-41a5-8f7d-6e1c768bfad2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/application/route.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/application/adminapi/controller/Login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/extend/tools/jwt/Token.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/application/adminapi/controller/Auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/topthink/think-installer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-captcha" />
+      <path value="$PROJECT_DIR$/vendor/topthink/think-image" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/pingplusplus/pingpp-php" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/guzzlestreams" />
+      <path value="$PROJECT_DIR$/vendor/ezimuel/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="sortBySeverity" value="false" />
+  </component>
+  <component name="ProjectId" id="1g89UFxHCUljbWaUcxRrZY1yOoq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/pyg" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="349e1091-996d-41a5-8f7d-6e1c768bfad2" name="Default Changelist" comment="" />
+      <created>1597485365562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597485365562</updated>
+      <workItem from="1597485367696" duration="1974000" />
+      <workItem from="1597542086277" duration="4672000" />
+      <workItem from="1597549622544" duration="14330000" />
+      <workItem from="1597839913996" duration="3978000" />
+      <workItem from="1597909245073" duration="12229000" />
+      <workItem from="1598436927035" duration="636000" />
+      <workItem from="1598437723792" duration="240000" />
+      <workItem from="1598437995245" duration="69000" />
+      <workItem from="1598456276428" duration="20000" />
+      <workItem from="1598456339393" duration="110000" />
+      <workItem from="1598456505046" duration="277000" />
+      <workItem from="1598456795073" duration="83000" />
+      <workItem from="1598456891044" duration="25000" />
+      <workItem from="1598456933256" duration="78000" />
+      <workItem from="1598457268040" duration="306000" />
+      <workItem from="1598457664089" duration="42000" />
+      <workItem from="1598457781382" duration="19000" />
+      <workItem from="1598492017041" duration="6644000" />
+      <workItem from="1598578133428" duration="22460000" />
+      <workItem from="1598664270713" duration="16794000" />
+      <workItem from="1598764723507" duration="21626000" />
+      <workItem from="1598838274952" duration="17536000" />
+      <workItem from="1598924612769" duration="22817000" />
+      <workItem from="1599012830467" duration="19270000" />
+      <workItem from="1599099530807" duration="7215000" />
+      <workItem from="1599111996801" duration="14495000" />
+      <workItem from="1599184824595" duration="26090000" />
+      <workItem from="1599268637046" duration="20265000" />
+      <workItem from="1599355816220" duration="24210000" />
+      <workItem from="1599453069191" duration="1551000" />
+      <workItem from="1599458223328" duration="9343000" />
+      <workItem from="1599530962736" duration="10716000" />
+      <workItem from="1599818670168" duration="276000" />
+      <workItem from="1599837035112" duration="1343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="246" key="#Composer" timestamp="1599404403284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="246" key="#Composer/0.0.1536.824@0.0.1536.824" timestamp="1599404403284" />
+    <state x="589" y="0" key="#HTML" timestamp="1598945228564">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="0" key="#HTML/0.0.1536.824@0.0.1536.824" timestamp="1598945228564" />
+    <state x="361" y="71" key="#Inspections" timestamp="1597554833845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1597554833845" />
+    <state x="516" y="235" key="#Notifications" timestamp="1599113593171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1599113593171" />
+    <state x="452" y="0" key="#PHP" timestamp="1597554980079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="0" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1597554980079" />
+    <state x="361" y="53" key="#Plugins" timestamp="1599112020791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1599112020791" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598945566202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598945566202" />
+    <state x="598" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598602751198">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598602751198" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599121843765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1599121843765" />
+    <state x="412" y="133" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599458212489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="133" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1599458212489" />
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599186858231">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1599186858231" />
+    <state x="537" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1599324217218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599324217218" />
+    <state x="361" y="53" key="#插件" timestamp="1599486770064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#插件/0.0.1536.824@0.0.1536.824" timestamp="1599486770064" />
+    <state x="395" y="91" key="#检查" timestamp="1598664417418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#检查/0.0.1536.824@0.0.1536.824" timestamp="1598664417418" />
+    <state x="710" y="160" key="FileChooserDialogImpl" timestamp="1599837077601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="710" y="160" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599837077601" />
+    <state x="548" y="133" key="NewPhpClassDialog" timestamp="1599531828233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="133" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1599531828233" />
+    <state x="599" y="335" key="NewPhpFileDialog" timestamp="1599837793252">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="335" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1599837793252" />
+    <state x="449" y="253" key="Performance.Activity.Monitor" timestamp="1598437866862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="253" key="Performance.Activity.Monitor/0.0.1536.824@0.0.1536.824" timestamp="1598437866862" />
+    <state x="286" y="58" width="996" height="707" key="SettingsEditor" timestamp="1598945480431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="58" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598945480431" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599554739181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599554739181" />
   </component>
 </project>
