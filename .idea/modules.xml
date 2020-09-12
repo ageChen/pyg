@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pyg.iml" filepath="$PROJECT_DIR$/.idea/pyg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mytest/.idea/mytest.iml" filepath="$PROJECT_DIR$/../mytest/.idea/mytest.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/pyg/.idea/pyg.iml" filepath="$USER_HOME$/Desktop/pyg/.idea/pyg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyg-vue/.idea/pyg-vue.iml" filepath="$PROJECT_DIR$/../pyg-vue/.idea/pyg-vue.iml" />
     </modules>
   </component>
 </project>

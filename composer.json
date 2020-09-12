@@ -1,0 +1,48 @@
+{
+    "name": "topthink/think",
+    "description": "the new thinkphp framework",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "thinkphp",
+        "ORM"
+    ],
+    "homepage": "http://thinkphp.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liu21st",
+            "email": "liu21st@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "topthink/framework": "5.0.*",
+        "lcobucci/jwt": "3.3",
+        "topthink/think-captcha": "1.*",
+        "topthink/think-image": "1.*",
+      "ext-json": "*",
+        "ezyang/htmlpurifier": "^4.13",
+      "ext-curl": "*",
+        "pingplusplus/pingpp-php": "^2.4",
+        "endroid/qr-code": "^3.9",
+        "elasticsearch/elasticsearch": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        }
+    },
+    "extra": {
+        "think-path": "thinkphp"
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}

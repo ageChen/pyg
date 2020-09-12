@@ -1,0 +1,12 @@
+<IfModule mod_rewrite.c>
+  Options +FollowSymlinks -Multiviews
+  RewriteEngine On
+
+# 通过apache重写，处理HTTP请求中的Authorization字段
+  RewriteCond %{HTTP:Authorization} ^(.+)$
+  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(.*)$ index.php?/$1 [QSA,PT,L]
+</IfModule>
